@@ -1,4 +1,4 @@
-PrincipalsFunctionalProgramming
-===============================
+Functional Programming Principals in Scala
+==========================================
 
-Code for Principals of Functional Programming Course on Coursera
+Code for the Functional Programming Princiapsl course on Coursera.
